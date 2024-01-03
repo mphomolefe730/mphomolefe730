@@ -10,17 +10,17 @@ A passionate Tech Engineer & Programmer who loves to solve problems by code and 
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
-	<img src="./html.png"/>
-	<img src="./css3.png"/>
-	<img src="./javascript.png"/>
-	<img src="./c.png"/>
-	<img src="./c#.png"/>
-	<img src="./python.png"/>
-	<img src="./figma.png"/>
-	<img src="./angular.png"/>
-	<img src="./dotnet.png"/>
-	<img src="./sql.png"/>
-	<img src="./visualStudio.png"/>
+	<img height="50" width="50" src="./html.png"/>
+	<img height="50" width="50" src="./css3.png"/>
+	<img height="50" width="50" src="./javascript.png"/>
+	<img height="50" width="50" src="./c.png"/>
+	<img height="50" width="50" src="./c#.png"/>
+	<img height="50" width="50" src="./python.png"/>
+	<img height="50" width="50" src="./figma.png"/>
+	<img height="50" width="50" src="./angular.png"/>
+	<img height="50" width="50" src="./dotnet.png"/>
+	<img height="50" width="50" src="./sql.png"/>
+	<img height="50" width="50" src="./visualStudio.png"/>
 </div>
 ### Connect with me via 👇
 <p style="display: grid; grid-template-columns: repeat(auto-fit, minmax(25px, 1fr));gap: 5px;">
