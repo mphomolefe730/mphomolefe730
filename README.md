@@ -1,5 +1,7 @@
 ### <h1 align="center">Hey there, I am Mpho Molefe</h1>
 
+---
+
 A passionate Tech Engineer & Programmer who loves to solve problems by code and build scalable secure applications using various technologies
 
 - 🌱 I’m currently working on 
