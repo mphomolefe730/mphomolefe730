@@ -10,25 +10,25 @@ A passionate Tech Engineer & Programmer who loves to solve problems by code and 
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
-	<img src="./assests/html.png"/>
-	<img src="./assests/css3.png"/>
-	<img src="./assests/javascript.png"/>
-	<img src="./assests/c.png"/>
-	<img src="./assests/c#.png"/>
-	<img src="./assests/python.png"/>
-	<img src="./assests/figma.png"/>
-	<img src="./assests/angular.png"/>
-	<img src="./assests/dotnet.png"/>
-	<img src="./assests/sql.png"/>
-	<img src="./assests/visualStudio.png"/>
+	<img src="./html.png"/>
+	<img src="./css3.png"/>
+	<img src="./javascript.png"/>
+	<img src="./c.png"/>
+	<img src="./c#.png"/>
+	<img src="./python.png"/>
+	<img src="./figma.png"/>
+	<img src="./angular.png"/>
+	<img src="./dotnet.png"/>
+	<img src="./sql.png"/>
+	<img src="./visualStudio.png"/>
 </div>
 ### Connect with me via 👇
-<span style="display: grid; grid-template-columns: repeat(auto-fit, minmax(25px, 1fr));gap: 5px;">
+<p style="display: grid; grid-template-columns: repeat(auto-fit, minmax(25px, 1fr));gap: 5px;">
 	<a href="https://www.linkedin.com/in/mpho-molefe-a67ab9284/">LINKEDIN</a>
 	<a href="https://twitter.com/21pradaofficial">TWITTER</a>
 	<a href="https://www.instagram.com/mphomolefe.ww/">INSTAGRAM</a>
 	<a href="https://wa.me/message/6GINQM4DJQKXK1">WHATSAPP</a>
-</span>
+</p>
 
 
 ### Support 👇
