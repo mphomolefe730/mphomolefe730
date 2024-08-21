@@ -9,7 +9,7 @@ Web developer with 2+ years of professional web development. Very passionate abo
 *   🌍  I'm based in Gauteng
 *   ✉️  You can contact me at [mphomolefe730@gmail.com](mailto:mphomolefe730@gmail.com)
 *   🧠  I'm learning ASP Dotnet & AWS
-*   🤝  I'm open to collaborating on Anything that caan further my career and interests
+*   🤝  I'm open to collaborating on Anything that can further my career and interests
 *   ⚡  Partake in electrical engineering projects in my spare time
 
 ### Skills 
